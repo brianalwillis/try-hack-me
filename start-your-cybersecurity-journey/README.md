@@ -75,3 +75,19 @@ BANK-HACKED
 ```
 No answer needed
 ```
+
+# `2. DEFENSIVE SECURITY INTRO`
+
+## *TASK 1: INTRODUCTION TO DEFENSIVE SECURITY*
+
+### *`Blue teams` are a part of defensive security, and it is concerned with:*</br>*1. Preventing intrusions from occurring.*</br>*2. Detecting intrusions when they occur and responding properly.*
+
+### *`Tasks` that are related to defensive security include:*</br> - User Cybersecurity Awareness</br> - Documenting and Managing Assets</br> - Updating and Patching Systems</br> - Setting Up Preventative Security Devices</br> - Setting Up Logging and Monitoring Devices
+
+## *Questions | Answers*
+
+### *Which team focuses on defensive security?*
+
+```
+Blue Team
+```
