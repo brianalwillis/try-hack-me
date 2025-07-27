@@ -82,7 +82,7 @@ No answer needed
 
 ### *`Blue teams` are a part of defensive security, and it is concerned with:*</br>*1. Preventing intrusions from occurring.*</br>*2. Detecting intrusions when they occur and responding properly.*
 
-### *`Tasks` that are related to defensive security include:*</br>&nbsp;&nbsp;&nbsp;- User Cybersecurity Awareness</br>&nbsp;&nbsp;&nbsp;- Documenting and Managing Assets</br>&nbsp;&nbsp;&nbsp;- Updating and Patching Systems</br>&nbsp;&nbsp;&nbsp;- Setting Up Preventative Security Devices</br>&nbsp;&nbsp;&nbsp;- Setting Up Logging and Monitoring Devices
+### *`Tasks` that are related to defensive security include:</br>&nbsp;&nbsp;&nbsp;- User Cybersecurity Awareness</br>&nbsp;&nbsp;&nbsp;- Documenting and Managing Assets</br>&nbsp;&nbsp;&nbsp;- Updating and Patching Systems</br>&nbsp;&nbsp;&nbsp;- Setting Up Preventative Security Devices</br>&nbsp;&nbsp;&nbsp;- Setting Up Logging and Monitoring Devices*
 
 ## *Questions | Answers*
 
@@ -96,14 +96,54 @@ Blue Team
 
 ### *A `Security Operations Center` (SOC) is a team of cybersecurity professionals that monitors the network and its systems to detect malicious cybersecurity events.*
 
-### *Some of the main areas of interest for a SOC are:*</br>&nbsp;&nbsp;&nbsp;- Vulnerabilities</br>&nbsp;&nbsp;&nbsp;- Policy Violations</br>&nbsp;&nbsp;&nbsp;- Unauthorized Activity</br>&nbsp;&nbsp;&nbsp;- Network Intrusions
+### *Some of the main areas of interest for a SOC are:</br>&nbsp;&nbsp;&nbsp;- Vulnerabilities</br>&nbsp;&nbsp;&nbsp;- Policy Violations</br>&nbsp;&nbsp;&nbsp;- Unauthorized Activity</br>&nbsp;&nbsp;&nbsp;- Network Intrusions*
 
-<img width="1140" height="666" alt="b5ac9a7b366ec258f9491899a9840f44" src="https://github.com/user-attachments/assets/1917fb40-1270-4d6b-9736-2e49c43cca3a" /></br>
+<img width="1140" height="666" alt="b5ac9a7b366ec258f9491899a9840f44" src="https://github.com/user-attachments/assets/1917fb40-1270-4d6b-9736-2e49c43cca3a" />
+
+---
 
 ### *`Threat Intelligence` collects information to help the company better prepare against potential adversaries.*
 
-### *DIGITAL FORENSICS AND INCIDENT RESPONSE (DFIR)*
+---
 
-### *MALWARE ANALYSIS*
+### *This section is about `Digital Forensics and Incident Response` (DFIR), and we will cover:</br>&nbsp;&nbsp;&nbsp;- Digital Forensics</br>&nbsp;&nbsp;&nbsp;- Incident Response</br>&nbsp;&nbsp;&nbsp;- Malware Analysis*
 
-### *SECURITY OPERATIONS CENTER (SOC)*
+### *`Forensics` is the application of science to investigate crimes and establish facts. `Digital Forensics` will focus on different areas, such as:</br>&nbsp;&nbsp;&nbsp;- File System</br>&nbsp;&nbsp;&nbsp;- System Memory</br>&nbsp;&nbsp;&nbsp;- System Logs</br>&nbsp;&nbsp;&nbsp;- Network Logs*
+
+### *An `incident` usually refers to a data breach or cyber attack; however, in some cases, it can be something less critical, such as a misconfiguration, an intrusion attempt, or a policy violation.*
+
+### *The four major phases of the `incident response process` are:</br>&nbsp;&nbsp;&nbsp;1. Preparation</br>&nbsp;&nbsp;&nbsp;2. Detection and Analysis</br>&nbsp;&nbsp;&nbsp;3. Containment, Eradication, and Recovery</br>&nbsp;&nbsp;&nbsp;4. Post-Incident Activity*
+
+<img width="1140" height="497" alt="b162600f5990f249d921aa0e8b7822f7" src="https://github.com/user-attachments/assets/5ec732c3-280f-4bb1-bc36-396ff9f9943b" />
+
+### *`Malware` stands for malicious software. `Software` refers to programs, documents, and files you can save on a disk or send over the network.*
+
+### *Malware includes many types, such as:</br>&nbsp;&nbsp;&nbsp;- Virus</br>&nbsp;&nbsp;&nbsp;- Trojan Horse</br>&nbsp;&nbsp;&nbsp;- Ransomware*
+
+<img width="987" height="666" alt="f07ff19c9f0ed7870127e98c6fe15cde" src="https://github.com/user-attachments/assets/a81f86b2-f54f-43af-ada3-9716c14eddd4" />
+
+### *`Malware analysis` aims to learn about such malicious programs using various means:</br>&nbsp;&nbsp;&nbsp;- Static Analysis</br>&nbsp;&nbsp;&nbsp;- Dynamic Analysis*
+
+## *Questions | Answers*
+
+### *What would you call a team of cybersecurity professionals that monitors a network and its systems for malicious events?*
+
+```
+Security Operations Center
+```
+
+### *What does DFIR stand for?*
+
+```
+Digital Forensics Incident Response
+```
+
+### *Which kind of malware requires the user to pay money to regain access to their files?*
+
+```
+Ransomware
+```
+
+
+
+
