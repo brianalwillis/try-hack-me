@@ -4,7 +4,7 @@
 <img width="2000" height="544" alt="Content-Banner---updated" src="https://github.com/user-attachments/assets/3a1a787a-b146-498d-98fd-af0c4dae441e" />
 </p>
 
-## `TABLE OF CONTENTS`
+# `TABLE OF CONTENTS`
 
 [`1. OFFENSIVE SECURITY INTRO`](#1-offensive-security-intro)</br>
 [`2. DEFENSIVE SECURITY INTRO`](#2-defensive-security-intro)</br>
@@ -12,13 +12,13 @@
 
 # `1. OFFENSIVE SECURITY INTRO`
 
-## `TASK 1: WHAT IS OFFENSIVE SECURITY`
+## *TASK 1: WHAT IS OFFENSIVE SECURITY*
 
 <h3 = align=center><em>"To outsmart a hacker, you need to think like one."</em></h3>
 
 <img width="1841" height="500" alt="Securing-Entry-Level-jobs-03" src="https://github.com/user-attachments/assets/1e8a1f3f-56d0-479a-a131-b32806e0f08f" />
 
-## `QUESTIONS | ANSWERS`
+## *Questions | Answers*
 
 ### *Which of the following options better represents the process where you simulate a hacker's actions to find vulnerabilities in a system?*
 
@@ -44,7 +44,6 @@ gobuster -u http://fakebank.thm -w wordlist.txt dir
 
 ### *Step 3: Hack The Bank*
 
-
 ```
 fakebank.thm/bank-transfer
 ```
@@ -57,10 +56,22 @@ fakebank.thm/bank-transfer
 
 <img width="949" height="689" alt="THM 9" src="https://github.com/user-attachments/assets/fc1915ab-d96a-4338-b85d-c6722acbb0c5" />
 
-## `QUESTIONS | ANSWERS`
+## *Questions | Answers*
 
 ### *Above your account balance, you should now see a message indicating the answer to this question. Can you find the answer you need?*
 
 ```
 BANK-HACKED
+```
+
+## `TASK 3: CAREERS IN CYBERSECURITY`
+
+### - *`Penetration Tester:` Responsible for testing technology products for finding exploitable security vulnerabilities.*</br> - *`Red Teamer:` Plays the role of an adversary, attacking an organization and providing feedback from an enemy's perspective.*</br>- *`Security Engineer:` Design, monitor, and maintain security controls, networks, and systems to help prevent cyberattacks.*
+
+## *Questions | Answers*
+
+### *Read the above, and continue with the next room!*
+
+```
+No answer needed
 ```
