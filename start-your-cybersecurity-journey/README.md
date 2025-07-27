@@ -310,9 +310,9 @@ concatenate
 
 ## *TASK 6: SOCIAL MEDIA*
 
-<img width="1401" height="382" alt="image" src="https://github.com/user-attachments/assets/e45d55c2-ff9c-4dc1-8239-c3d18792cc69" />
-
 ### *`Social media platforms` are online services or applications that enable users to create, share, and interact with content and connect with others through networks and communities:</br>&nbsp;&nbsp;&nbsp;- Facebook</br>&nbsp;&nbsp;&nbsp;- Twitter</br>&nbsp;&nbsp;&nbsp;- LinkedIn*
+
+<img width="1401" height="382" alt="image" src="https://github.com/user-attachments/assets/e45d55c2-ff9c-4dc1-8239-c3d18792cc69" />
 
 ## *Questions | Answers*
 
