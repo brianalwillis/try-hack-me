@@ -19,7 +19,7 @@
 <h2 = align=center><code>TASK 1: WHAT IS OFFENSIVE SECURITY</code></h2>
 
 <h3 = align=center><em>"To outsmart a hacker, you need to think like one."</em></h3>
-</br>
+
 <img width="1841" height="500" alt="Securing-Entry-Level-jobs-03" src="https://github.com/user-attachments/assets/1e8a1f3f-56d0-479a-a131-b32806e0f08f" />
 
 ### *Which of the following options better represents the process where you simulate a hacker's actions to find vulnerabilities in a system?*
