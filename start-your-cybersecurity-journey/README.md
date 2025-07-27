@@ -174,7 +174,7 @@ THM{THREAT-BLOCKED}
 
 # `3. SEARCH SKILLS`
 
-<img width="1200" height="1200" alt="THM 3" src="https://github.com/user-attachments/assets/2cb159ee-f2a8-4543-94ee-05c258596399" />
+<img width="500" height="500" alt="THM 3" src="https://github.com/user-attachments/assets/2cb159ee-f2a8-4543-94ee-05c258596399" />
 
 ## *TASK 1: INTRODUCTION*
 
@@ -262,11 +262,11 @@ Android.Riskware.Agent.LHH
 
 <img width="1920" height="1080" alt="5f04259cf9bf5b57aed2c476-1718112739122" src="https://github.com/user-attachments/assets/0ed00604-b8a4-4785-9b7c-96a58391c139" />
 
-### *`Exploit Database` lists exploit codes from various authors; some of these exploit codes are tested and marked as verified.
+### *`Exploit Database` lists exploit codes from various authors; some of these exploit codes are tested and marked as verified.*
 
 <img width="1920" height="1080" alt="5f04259cf9bf5b57aed2c476-1718112752814" src="https://github.com/user-attachments/assets/ecb05276-b6f8-409d-af2c-0619f49daccf" />
 
-### *`GitHub` is a web-based platform for software development, which can contain many tools related to CVEs, along with proof-of-concept (PoC) and exploit codes.
+### *`GitHub` is a web-based platform for software development, which can contain many tools related to CVEs, along with proof-of-concept (PoC) and exploit codes.*
 
 <img width="1450" height="923" alt="5f04259cf9bf5b57aed2c476-1718112771383" src="https://github.com/user-attachments/assets/4c26b6c1-69bc-407a-94c4-b8cfa9524ee0" />
 
@@ -280,7 +280,7 @@ xz
 
 ## *TASK 6: TECHNICAL DOCUMENTATION*
 
-### *`Linux Manual Pages` are built-in documentation that provide detailed information about commands, system calls, configuration files, and other aspects of the Linux operating system.
+### *`Linux Manual Pages` are built-in documentation that provide detailed information about commands, system calls, configuration files, and other aspects of the Linux operating system.*
 
 <img width="1920" height="1080" alt="5f04259cf9bf5b57aed2c476-1718112797192" src="https://github.com/user-attachments/assets/82a9160f-99be-4016-947f-49503dbf15ed" />
 
@@ -306,7 +306,7 @@ concatenate
 
 ## *TASK 6: SOCIAL MEDIA*
 
-<img width="1200" height="1200" alt="5f04259cf9bf5b57aed2c476-1720443820951" src="https://github.com/user-attachments/assets/fceb67f0-f501-4bcd-95d8-0bf8348490d6" />
+<img width="500" height="500" alt="5f04259cf9bf5b57aed2c476-1720443820951" src="https://github.com/user-attachments/assets/fceb67f0-f501-4bcd-95d8-0bf8348490d6" />
 
 ### *`Social media platforms` are online services or applications that enable users to create, share, and interact with content and connect with others through networks and communities:</br>&nbsp;&nbsp;&nbsp;- Facebook</br>&nbsp;&nbsp;&nbsp;- Twitter</br>&nbsp;&nbsp;&nbsp;- LinkedIn*
 
