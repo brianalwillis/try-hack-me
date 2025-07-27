@@ -174,6 +174,8 @@ THM{THREAT-BLOCKED}
 
 # `3. SEARCH SKILLS`
 
+<img width="1200" height="1200" alt="THM 3" src="https://github.com/user-attachments/assets/2cb159ee-f2a8-4543-94ee-05c258596399" />
+
 ## *TASK 1: INTRODUCTION*
 
 ## *Questions | Answers*
@@ -236,7 +238,102 @@ socket statistics
 
 <img width="1920" height="1080" alt="5f04259cf9bf5b57aed2c476-1718112692359" src="https://github.com/user-attachments/assets/135f5ab7-69d9-4464-9e68-597914b8ad55" />
 
-### *`
+### *`Have I Been Pwned` (HIBP) tells you if an email address has appeared in a leaked data breach.*
+
+<img width="1920" height="1080" alt="5f04259cf9bf5b57aed2c476-1718112534973" src="https://github.com/user-attachments/assets/f3b292ed-533f-441b-9a10-45d0b3d72af4" />
+
+## *Questions | Answers*
+
+### *What is the top country with `lighttpd` servers?*
+
+```
+United States
+```
+
+### *What does `BitDefenderFalx` detect the file with the hash `2de70ca737c1f4602517c555ddd54165432cf231ffc0e21fb2e23b9dd14e7fb4` as?*
+
+```
+Android.Riskware.Agent.LHH
+```
+
+## *TASK 5: VULNERABILITIES AND EXPLOITS*
+
+### *`Common Vulnerabilities and Exposures` (CVE) is a dictionary of vulnerabilities. It provides a standardized identifier for vulnerabilities and security issues in software and hardware products.*
+
+<img width="1920" height="1080" alt="5f04259cf9bf5b57aed2c476-1718112739122" src="https://github.com/user-attachments/assets/0ed00604-b8a4-4785-9b7c-96a58391c139" />
+
+### *`Exploit Database` lists exploit codes from various authors; some of these exploit codes are tested and marked as verified.
+
+<img width="1920" height="1080" alt="5f04259cf9bf5b57aed2c476-1718112752814" src="https://github.com/user-attachments/assets/ecb05276-b6f8-409d-af2c-0619f49daccf" />
+
+### *`GitHub` is a web-based platform for software development, which can contain many tools related to CVEs, along with proof-of-concept (PoC) and exploit codes.
+
+<img width="1450" height="923" alt="5f04259cf9bf5b57aed2c476-1718112771383" src="https://github.com/user-attachments/assets/4c26b6c1-69bc-407a-94c4-b8cfa9524ee0" />
+
+## *Questions | Answers*
+
+### *What utility does CVE-2024-3094 refer to?*
+
+```
+xz
+```
+
+## *TASK 6: TECHNICAL DOCUMENTATION*
+
+### *`Linux Manual Pages` are built-in documentation that provide detailed information about commands, system calls, configuration files, and other aspects of the Linux operating system.
+
+<img width="1920" height="1080" alt="5f04259cf9bf5b57aed2c476-1718112797192" src="https://github.com/user-attachments/assets/82a9160f-99be-4016-947f-49503dbf15ed" />
+
+### *`Microsoft Windows` provides an official Technical Documentation page for its products.
+
+<img width="1633" height="753" alt="5f04259cf9bf5b57aed2c476-1718112815041" src="https://github.com/user-attachments/assets/6223c92b-0c42-4098-b32b-245d8743e43f" />
+
+### *`Product Documentation` provides an official and reliable source of information about the product features and functions:</br>&nbsp;&nbsp;&nbsp;- Snort Official Documentation</br>&nbsp;&nbsp;&nbsp;- Apache HTTP Server Documentation</br>&nbsp;&nbsp;&nbsp;- PHP Documentation</br>&nbsp;&nbsp;&nbsp;- Node.js Documentation*
+
+## *Questions | Answers*
+
+### *What does the Linux command `cat` stand for?*
+
+```
+concatenate
+```
+
+### *What utility does `CVE-2024-3094` refer to?*
+
+```
+-b
+```
+
+## *TASK 6: SOCIAL MEDIA*
+
+<img width="1200" height="1200" alt="5f04259cf9bf5b57aed2c476-1720443820951" src="https://github.com/user-attachments/assets/fceb67f0-f501-4bcd-95d8-0bf8348490d6" />
+
+### *`Social media platforms` are online services or applications that enable users to create, share, and interact with content and connect with others through networks and communities:</br>&nbsp;&nbsp;&nbsp;- Facebook</br>&nbsp;&nbsp;&nbsp;- Twitter</br>&nbsp;&nbsp;&nbsp;- LinkedIn*
+
+## *Questions | Answers*
+
+### *You are hired to evaluate the security of a particular company. What is a popular social media website you would use to learn about the technical background of one of their employees?*
+
+```
+LinkedIn
+```
+
+### *Continuing with the previous scenario, you are trying to find the answer to the secret question, “Which school did you go to as a child?”. What social media website would you consider checking to find the answer to such secret questions?*
+
+```
+Facebook
+```
+
+---
+
+
+
+
+
+
+
+
+
 
 
 
