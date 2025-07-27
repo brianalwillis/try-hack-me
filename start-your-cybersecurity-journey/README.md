@@ -1,4 +1,4 @@
-<img width="1140" height="599" alt="63588b5ef586912c7d03c4f0-1715343494201" src="https://github.com/user-attachments/assets/7ef7241b-9404-4175-98e7-eedb010ad220" /><h1 = align=center><em>Start Your <code>Cybersecurity</code> Journey</em></h1>
+<h1 = align=center><em>Start Your <code>Cybersecurity</code> Journey</em></h1>
 
 <p align="center">
 <img width="2000" height="544" alt="Content-Banner---updated" src="https://github.com/user-attachments/assets/3a1a787a-b146-498d-98fd-af0c4dae441e" />
@@ -146,7 +146,7 @@ Ransomware
 
 ### *`SCENARIO:`</br>You are a `Security Operations Center (SOC) analyst` responsible for protecting a `bank`. This bank's SOC uses a `Security Information and Event Management` (SIEM). If the SIEM finds something suspicious, an `alert` will be generated.*
 
-<img width="1140" height="599" alt="63588b5ef586912c7d03c4f0-1715343494201-1" src="https://github.com/user-attachments/assets/76e75201-84ab-4e90-af2a-2f73b6fad9e0" />
+<img width="1140" height="599" alt="63588b5ef586912c7d03c4f0-1715343494201" src="https://github.com/user-attachments/assets/7ef7241b-9404-4175-98e7-eedb010ad220" />
 
 ### *Step 1: Inspect the alert in your SIEM dashboard*
 
