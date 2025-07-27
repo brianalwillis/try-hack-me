@@ -10,6 +10,8 @@
 - [`2. DEFENSIVE SECURITY INTRO`](#2-defensive-security-intro)</br>
 - [`3. SEARCH SKILLS`](#3-search-skills)
 
+---
+
 # `1. OFFENSIVE SECURITY INTRO`
 
 ## *TASK 1: WHAT IS OFFENSIVE SECURITY*
@@ -75,6 +77,8 @@ BANK-HACKED
 ```
 No answer needed
 ```
+
+---
 
 # `2. DEFENSIVE SECURITY INTRO`
 
@@ -171,6 +175,8 @@ Ransomware
 ```
 THM{THREAT-BLOCKED}
 ```
+
+---
 
 # `3. SEARCH SKILLS`
 
