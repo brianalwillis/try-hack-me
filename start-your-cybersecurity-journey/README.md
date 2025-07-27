@@ -4,15 +4,11 @@
 <img width="2000" height="544" alt="Content-Banner---updated" src="https://github.com/user-attachments/assets/3a1a787a-b146-498d-98fd-af0c4dae441e" />
 </p>
 
-<h2 = align=center><code>TABLE OF CONTENTS</code></h2>
+## `TABLE OF CONTENTS`
 
-<div align="center">
-  
 [`1. OFFENSIVE SECURITY INTRO`](#1-offensive-security-intro)</br>
 [`2. DEFENSIVE SECURITY INTRO`](#2-defensive-security-intro)</br>
 [`3. SEARCH SKILLS`](#3-search-skills)
-
-</div>
 
 # `1. OFFENSIVE SECURITY INTRO`
 
