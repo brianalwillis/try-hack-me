@@ -172,6 +172,74 @@ Ransomware
 THM{THREAT-BLOCKED}
 ```
 
+# `3. SEARCH SKILLS`
+
+## *TASK 1: INTRODUCTION*
+
+## *Questions | Answers*
+
+### *Check how many results you get when searching for `learn hacking`. At the time of writing, we got `1.5 billion` results when searching on Google.*
+
+```
+No answer needed
+```
+
+## *TASK 2: EVALUATION OF SEARCH RESULTS*
+
+### *It is our job, as readers, to evaluate the information. We will mention a few things to consider when evaluating information:</br>&nbsp;&nbsp;&nbsp;- Source</br>&nbsp;&nbsp;&nbsp;- Evidence and Reasonding</br>&nbsp;&nbsp;&nbsp;- Objectivity and Bias</br>&nbsp;&nbsp;&nbsp;- Corroboration and Consistency*
+
+## *Questions | Answers*
+
+### *What do you call a cryptographic method or product considered bogus or fraudulent?*
+
+```
+Snake Oil
+```
+
+### *What is the name of the command replacing `netstat` in Linux systems?*
+
+```
+ss
+```
+
+## *TASK 3: SEARCH ENGINES*
+
+### *Almost every `internet search engine` allows you to carry out `advanced searches`. Consider the following examples:</br>&nbsp;&nbsp;&nbsp;- Google</br>&nbsp;&nbsp;&nbsp;- Bing</br>&nbsp;&nbsp;&nbsp;- DuckDuckGo
+
+### *Let's consider the `search operators` supported by `Google`:</br>&nbsp;&nbsp;&nbsp;- "exact phrase"</br>&nbsp;&nbsp;&nbsp;- site: </br>&nbsp;&nbsp;&nbsp;- The Minus Sign -</br>&nbsp;&nbsp;&nbsp;- filetype:
+
+## *Questions | Answers*
+
+### *How would you limit your Google search to PDF files containing the terms cyber warfare report?*
+
+```
+filetype:pdf cyber warfare report
+```
+
+### *What phrase does the Linux command ss stand for?*
+
+```
+socket statistics
+```
+
+## *TASK 4: SPECIALIZED SEARCH ENGINES*
+
+### *`Shodan` is a search engine for devices connected to the Internet. It allows you to search for specific types and versions of servers, networking equipment, industrial control systems, and IoT devices.*
+
+<img width="1920" height="868" alt="5f04259cf9bf5b57aed2c476-1718112514634" src="https://github.com/user-attachments/assets/ee0be7a7-8299-418f-b128-66a6e4ce1ba5" />
+
+### *`Censys` appears similar to Shodan, but focuses on Internet-connected hosts, websites, certificates, and other Internet assets.*
+
+<img width="1685" height="932" alt="5f04259cf9bf5b57aed2c476-1718112720346" src="https://github.com/user-attachments/assets/3295c8bd-daf9-4ee2-a509-66ffa9dd642e" />
+
+### *`VirusTotal` is an online website that provides a virus-scanning service for files using multiple antivirus engines.*
+
+<img width="1920" height="1080" alt="5f04259cf9bf5b57aed2c476-1718112692359" src="https://github.com/user-attachments/assets/135f5ab7-69d9-4464-9e68-597914b8ad55" />
+
+### *`
+
+
+
 
 
 
