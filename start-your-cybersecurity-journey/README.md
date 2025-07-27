@@ -1,4 +1,4 @@
-<h1 = align=center><em>Start Your <code>Cybersecurity</code> Journey</em></h1>
+<img width="1140" height="599" alt="63588b5ef586912c7d03c4f0-1715343494201" src="https://github.com/user-attachments/assets/7ef7241b-9404-4175-98e7-eedb010ad220" /><h1 = align=center><em>Start Your <code>Cybersecurity</code> Journey</em></h1>
 
 <p align="center">
 <img width="2000" height="544" alt="Content-Banner---updated" src="https://github.com/user-attachments/assets/3a1a787a-b146-498d-98fd-af0c4dae441e" />
@@ -100,8 +100,6 @@ Blue Team
 
 <img width="1140" height="666" alt="b5ac9a7b366ec258f9491899a9840f44" src="https://github.com/user-attachments/assets/1917fb40-1270-4d6b-9736-2e49c43cca3a" />
 
----
-
 ### *`Threat Intelligence` collects information to help the company better prepare against potential adversaries.*
 
 ---
@@ -143,6 +141,42 @@ Digital Forensics Incident Response
 ```
 Ransomware
 ```
+
+## *TASK 3: PRACTICAL EXAMPLE OF DEFENSIVE SECURITY*
+
+### *`SCENARIO:`</br>You are a `Security Operations Center (SOC) analyst` responsible for protecting a `bank`. This bank's SOC uses a `Security Information and Event Management` (SIEM). If the SIEM finds something suspicious, an `alert` will be generated.*
+
+<img width="1140" height="599" alt="63588b5ef586912c7d03c4f0-1715343494201-1" src="https://github.com/user-attachments/assets/76e75201-84ab-4e90-af2a-2f73b6fad9e0" />
+
+### *Step 1: Inspect the alert in your SIEM dashboard*
+
+<img width="692" height="666" alt="THM 10" src="https://github.com/user-attachments/assets/6eb06cc6-bf4e-4f9e-b4b4-2e44dd54e83c" />
+
+### *Step 2: Check the reputation of the suspicious IP address `143.110.250.149`*
+
+<img width="693" height="389" alt="THM 11" src="https://github.com/user-attachments/assets/34850e18-660e-41c1-9a4e-576f23196b07" />
+
+### *Step 3: Escalate the incident event to the appropriate person/department if needed*
+
+<img width="493" height="275" alt="THM 13" src="https://github.com/user-attachments/assets/58f98ba8-9c90-43fc-bd81-1664a122f6c1" />
+
+### *Step 4: Block the malicious IP address on the firewall*
+
+<img width="691" height="491" alt="THM 12" src="https://github.com/user-attachments/assets/cd2491a0-188a-4c29-86cc-25f1f6d8b922" />
+
+## *Questions | Answers*
+
+### *What is the flag that you obtained by following along?*
+
+```
+THM{THREAT-BLOCKED}
+```
+
+
+
+
+
+
 
 
 
