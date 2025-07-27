@@ -6,9 +6,9 @@
 
 # `TABLE OF CONTENTS`
 
-[`1. OFFENSIVE SECURITY INTRO`](#1-offensive-security-intro)</br>
-[`2. DEFENSIVE SECURITY INTRO`](#2-defensive-security-intro)</br>
-[`3. SEARCH SKILLS`](#3-search-skills)
+- [`1. OFFENSIVE SECURITY INTRO`](#1-offensive-security-intro)</br>
+- [`2. DEFENSIVE SECURITY INTRO`](#2-defensive-security-intro)</br>
+- [`3. SEARCH SKILLS`](#3-search-skills)
 
 # `1. OFFENSIVE SECURITY INTRO`
 
@@ -82,7 +82,7 @@ No answer needed
 
 ### *`Blue teams` are a part of defensive security, and it is concerned with:*</br>*1. Preventing intrusions from occurring.*</br>*2. Detecting intrusions when they occur and responding properly.*
 
-### *`Tasks` that are related to defensive security include:*</br> - User Cybersecurity Awareness</br> - Documenting and Managing Assets</br> - Updating and Patching Systems</br> - Setting Up Preventative Security Devices</br> - Setting Up Logging and Monitoring Devices
+### *`Tasks` that are related to defensive security include:*</br>&nbsp;&nbsp;&nbsp;- User Cybersecurity Awareness</br>&nbsp;&nbsp;&nbsp;- Documenting and Managing Assets</br>&nbsp;&nbsp;&nbsp;- Updating and Patching Systems</br>&nbsp;&nbsp;&nbsp;- Setting Up Preventative Security Devices</br>&nbsp;&nbsp;&nbsp;- Setting Up Logging and Monitoring Devices
 
 ## *Questions | Answers*
 
@@ -91,3 +91,19 @@ No answer needed
 ```
 Blue Team
 ```
+
+## *TASK 2: AREAS OF DEFENSIVE SECURITY*
+
+### *A `Security Operations Center` (SOC) is a team of cybersecurity professionals that monitors the network and its systems to detect malicious cybersecurity events.*
+
+### *Some of the main areas of interest for a SOC are:*</br>&nbsp;&nbsp;&nbsp;- Vulnerabilities</br>&nbsp;&nbsp;&nbsp;- Policy Violations</br>&nbsp;&nbsp;&nbsp;- Unauthorized Activity</br>&nbsp;&nbsp;&nbsp;- Network Intrusions
+
+<img width="1140" height="666" alt="b5ac9a7b366ec258f9491899a9840f44" src="https://github.com/user-attachments/assets/1917fb40-1270-4d6b-9736-2e49c43cca3a" /></br>
+
+### *`Threat Intelligence` collects information to help the company better prepare against potential adversaries.*
+
+### *DIGITAL FORENSICS AND INCIDENT RESPONSE (DFIR)*
+
+### *MALWARE ANALYSIS*
+
+### *SECURITY OPERATIONS CENTER (SOC)*
