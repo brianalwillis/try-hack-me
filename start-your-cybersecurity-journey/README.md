@@ -174,8 +174,6 @@ THM{THREAT-BLOCKED}
 
 # `3. SEARCH SKILLS`
 
-<img width="500" height="500" alt="THM 3" src="https://github.com/user-attachments/assets/2cb159ee-f2a8-4543-94ee-05c258596399" />
-
 ## *TASK 1: INTRODUCTION*
 
 ## *Questions | Answers*
@@ -284,7 +282,7 @@ xz
 
 <img width="1920" height="1080" alt="5f04259cf9bf5b57aed2c476-1718112797192" src="https://github.com/user-attachments/assets/82a9160f-99be-4016-947f-49503dbf15ed" />
 
-### *`Microsoft Windows` provides an official Technical Documentation page for its products.
+### *`Microsoft Windows` provides an official Technical Documentation page for its products.*
 
 <img width="1633" height="753" alt="5f04259cf9bf5b57aed2c476-1718112815041" src="https://github.com/user-attachments/assets/6223c92b-0c42-4098-b32b-245d8743e43f" />
 
@@ -306,7 +304,7 @@ concatenate
 
 ## *TASK 6: SOCIAL MEDIA*
 
-<img width="500" height="500" alt="5f04259cf9bf5b57aed2c476-1720443820951" src="https://github.com/user-attachments/assets/fceb67f0-f501-4bcd-95d8-0bf8348490d6" />
+<img width="1401" height="382" alt="image" src="https://github.com/user-attachments/assets/e45d55c2-ff9c-4dc1-8239-c3d18792cc69" />
 
 ### *`Social media platforms` are online services or applications that enable users to create, share, and interact with content and connect with others through networks and communities:</br>&nbsp;&nbsp;&nbsp;- Facebook</br>&nbsp;&nbsp;&nbsp;- Twitter</br>&nbsp;&nbsp;&nbsp;- LinkedIn*
 
@@ -326,7 +324,7 @@ Facebook
 
 ---
 
-
+## [*`Table of Contents`*](#TABLE-OF-CONTENTS)
 
 
 
